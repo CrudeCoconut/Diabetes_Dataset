@@ -1,7 +1,7 @@
 # Diabetes_Dataset
 
 ## Objective
-The purpose of this repo is to explore the diabetes dataset to train different models.
+The purpose of this repo is to play around with the diabetes dataset.
 
 ### Methods Used
 * Decision Trees
